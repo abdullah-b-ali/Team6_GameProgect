@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MoveEnemy.cs">
+    <Files>
+      <File FileName="Assets\MoveEnemy.cs" Line="60" Column="15" />
+      <File FileName="Assets\nextTurn.cs" Line="11" Column="15" />
+      <File FileName="Assets\SpawnRoad1.cs" Line="6" Column="36" />
+      <File FileName="Assets\SpawnRoad2.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

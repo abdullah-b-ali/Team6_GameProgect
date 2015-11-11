@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 450cef742de70024f8d2178e124b4234
+timeCreated: 1447231470
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - turretPrefab: {fileID: 117596, guid: d8897c0a03bd0d64a92cfb5f3940959a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
