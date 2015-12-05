@@ -6,7 +6,7 @@ public class MoveEnemy : MonoBehaviour {
 	private bool move ;
 	private GameObject button ;
 	 
-		[HideInInspector]
+		//[HideInInspector]
 	public GameObject[] waypoints ;
 	private int currentwaypoint = 0;
 	private float lastwaypointSwitchTime;
