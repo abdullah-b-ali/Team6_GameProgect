@@ -6,7 +6,7 @@ public class SpawnRoad2 : MonoBehaviour {
 	public GameObject testEnemyPrefab;
 	// Use this for initialization
 	public void spawning ()  {
-		Instantiate(testEnemyPrefab).GetComponent<MoveEnemy>().waypoints = waypoints;
+		Instantiate(testEnemyPrefab).GetComponent<MoveEnemy2>().waypoints = waypoints;
 	}
 	
 	// Update is called once per frame

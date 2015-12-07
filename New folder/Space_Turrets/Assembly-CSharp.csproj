@@ -45,7 +45,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\MoveEnemy.cs" />
+     <Compile Include="Assets\MoveEnemy2.cs" />
      <Compile Include="Assets\Script\Goal.cs" />
      <Compile Include="Assets\Script\ShowHideStory.cs" />
      <Compile Include="Assets\Script\turretPlacer.cs" />
